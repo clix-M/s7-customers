@@ -1,0 +1,18 @@
+
+spring:
+  application:
+    name: s7-customers
+  datasource:
+    url: jdbc:postgresql://ep-yellow-glade-a4s3jp0u-pooler.us-east-1.aws.neon.tech:5432/verceldb
+    username: default
+    password: 0kHmgn5VqeoT
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
+
+server:
+  port: 8090
