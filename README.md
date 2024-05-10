@@ -9,7 +9,7 @@
 - maven
 - postgresql
 
-## proyecto similar | https://github.com/clix-M/control-cliente
+## proyecto similar | [https://github.com/clix-M/control-cliente](https://github.com/clix-M/control-cliente/tree/master)
 
 ![img](src/main/resources/static/get-all.png)
 ![img](src/main/resources/static/post-customer.png)
